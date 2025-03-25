@@ -144,3 +144,11 @@ Open **[http://localhost:8501](http://localhost:8501)** in your browser. 🚀
 
 ![image](https://github.com/vidhi-jaju/DockSpace/blob/ff8a146fe1dd823cbec9c8928ee976e68157ad40/8.%20Evidently%20AI%20Sets%20Sail%20in%20Docker/img1.png)
 
+🎯 Conclusion
+✅ Successfully deployed an Evidently AI dashboard using Streamlit inside Docker. ✅ Integrated report selection for different projects. ✅ Used Docker for easy deployment and scalability. ✅ Organized code into modular UI and utility functions.
+
+🚀 Next Steps
+🔹 Add authentication for project access. 🔹 Implement report comparisons over different periods. 🔹 Deploy this setup on a cloud platform like AWS/GCP.
+
+🎯 Keep exploring and happy coding! 🚀
+
